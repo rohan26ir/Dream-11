@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Viral Kohli",
+    "team": "India",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "15000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_VZgwrvYYfun9zmOOoJkGOJg5ott7PBntxKmLDTovtwvx6fWgcanltRugKU69OoZ5dBsivQCQWOjAFcYE1yaI7NOh9YGpJ683m2vQ_PKhwZ8YRkKYRyPNmctaK8v-DoLLs3NY93LdCQncVhdsC1ypTphFjPR4mtLdNWTIah8xXKm8D1GJ3j-cOE2R-50/s320/virat-kohli.webp"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "team": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "18000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOSyHtBRpJeZWTKYUjPtyaL1Uj87jAAgKlkjYHv9fHcNYrMfNT9-rrq2Lmo5in8G40THtypzldh5DI5GLJomol3ILQNsSaC-NB1lJIQRGJEkeMeee6Pm6Cve_C4vTI6vBKIxv7UXjEpsLM63QvCrUzsvyJjoP7HdYNXsV-jzq8v3PIFM0HNuEE4MacJNE/s1200/Rohit%20Sharma.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jasprit Bumrah",
+    "team": "India",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "12000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUE8L0x9zrp0OTs2vbq0EMNrf_G7wfODvEuB2X2SBWvuYLio6J3MwbgaAoPn4Nij3hVZ-uqzC_nwtPIBzeD9aw_LzogvEx2NDe28XDt-cA-DtPKx4pA0x-pm_XlAIuXpA5kKFb28b2PGgU8_TjNMTvW0c3uCrid7MF1EcncSNUwW_gp8PDwSmxb2Pq8vo/s806/Jasprit%20Bumrah.webp"
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "team": "New Zealand",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "17000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsQ_j0vdlDKcNo4U6xWugPUk307tOkNXYV_A7X-_5rSUQhenPJMoZMT8GsEvxK1qmVnvmk1Mprnea0_CY5CjzkU1pSKI9CplQyjjbUO2bo9hDlNSdkVGch5fK4jpIU96_r5J6SdFuVCMSlPcDIdvd9mdZa8ivbltf39gl1D_lkPe63x-r92Og6638jNgo/s640/Kane%20Williamson.webp"
+  },
+  {
+    "id": 5,
+    "name": "David Warner",
+    "team": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "16000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiB_ibO1M6C9K9bfv3Zx15_rk4MDjGXsMVbLgOSccAsF74XPucOQaZMuq8zozUfCD2008DfB-Ca11_1ORgVt_sYr7WyNiPSuSx9SffFCH6wO_Y7B5larQSKODLykgs01YocqYn9I5nWbk2xdVTsm3JrhbZj6udxtN6OIjERo-srxdhelNhmi-Av5D12Yg/s1024/David%20Warner.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "team": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "19000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJT8sa6bY4nnC-dpc_bikxccwbTNuA9iQo_40-kZwCYd9Ea36ygXP3zxR8vvVlXpYwIhl2Xvy-KengGFXS2tUKT_pw3lUw2KdHewY1LDGfTBc3VbdaS69WG85sPeOttoGzvGSH6wHmY9VCI6wPLbRGzQ4WMXH6YnIx0hH0iZa7Rqr4t7fvcf8rF6GLQw8/s800/Ben%20Stokes.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Babar Azam",
+    "team": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "17500",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguv3hA7f217tCZ8a7cgM1Q1AowHy1dLYu27g-JTwj3iBqCyJ6pMMlUg4LMH4FzqruI7IB5uA8gvNSFV1IEXye0IuaRPz_NHV4ntJ8U-eUUb3wCJFEDVg6KtN6mReTJaZA0v0LUTrS9M8YDhP84j77vbccnoIw5iGSXeph9sJAWWkqTQpsG1XsnInwviQQ/s800/Babar%20Azam.webp"
+  },
+  {
+    "id": 8,
+    "name": "Trent Boult",
+    "team": "New Zealand",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "13000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK0wtAZ4GCYYPLQmJg8bC0DHdKPlMYvvOGNOi2QGlIF00BC-JrweqFw5UOTh3Yz2llxpCc4iYdUhi5xJP5PI2fiUsjvSWadLwyRAJsdvWD9SA2pItJGsurTDcgQNjXwGN_Atn4LO0r0GajqsRntYm_5JHhpitceVedjoA_1tpi_g4wPWCIRz7dZYriUzY/s320/Trent%20Boult.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pat Cummins",
+    "team": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "14500",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIQmNx1vnZSXQgYKljiAq15yuTwnQPcL3Or56prU_x4XL1C9NibapMmaWE7uzmB2dyZVDJJUtY3YAsFYv45xN3T-Y-gAJRGVSddaFN6NS-x7pS5i1Dul4UgwHKQwV-O_QvCULsZ90huIk0bWMObTOtw63_9cQpxgq2Fo7aK5Z5HApHYYP1nNF2YRJfzhQ/s686/Pat%20Cummins.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Shakib Al Hasan",
+    "team": "Bangladesh",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "1600",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXa01r5XJa1yf93jblVyQICOUh7DT941Umrq0y3ILItSAgQ2yVKRZHuYkCGtPv4Wic-08mHWkm38kx6dYwGZdgw4IgaAM1lzFb2MHSCANXD-tuc-W-scK4pm3PIB6NcicnVBUrma-09-t_6ErjRauIdz4AJOOO2CE2MfQiPr3mEL-qk8tzYbCqBJ_N0zc/s320/Shakib%20Al%20Hasan.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Joe Root",
+    "team": "England",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "17000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ADymqRi_5y-rVzTkLQkeVCV7H_IPI8Iud8_VswXtphuMxB15gCKFcB5qKOtHdsfoiV65yleVoALQBPXXY00PbjWgVH4mQ4Nxe4_pWwnpUMrk7vEqB4ulUzb6jp-wT5DVNhSTkM7GWw_B5bOG5Vx12QKDwL5ZgFnRJUhyphenhyphenUcP-NLEE3zz8UTkJE0-CVUU/s1200/Joe%20Root.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mohammad Rizwan",
+    "team": "Pakistan",
+    "role": "Wicketkeeper-Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "14000",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUceZStRGWks0j8ZI9Z-ruyvelqIrbGY2ge3LQNctWgKT8-_uHFBaSM2Tg0hrwLfeJfx-5RQAH8B9M6nMK4sCgjVALcCdg_Izmj2-DFengnKK0MtoWcxKI6e77HxWDEMl7j0TnRHTsOKXV0ro71dIGWAyIZ7RflkdISOQuZN94tC14uj52JIqX4uSI56U/s320/Mohammad%20Rizwan.webp"
+  }
+]
